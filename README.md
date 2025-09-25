@@ -55,9 +55,7 @@ This project explores how varying PID parameters impacts system dynamics, includ
 
 ---
 
-## Example Figures
-
-*(Add plots into `figures/` and link them here)*
+## Example Figures in report
 
 - Simulink model screenshot  
 - Step response curve (PID tuned vs untuned)  
